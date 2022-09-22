@@ -8,7 +8,6 @@ setuptools.setup(name='waldo',
                  author='Tibério A. Pereira',
                  description='waveform anomaly detector',
                  packages=['waldo'],
+                 install_requires=install_requires,
                  classifiers=["Programming Language :: Python :: 3",
                              "Operating System :: OS Independent"])
-
-#install_requires=install_requires,
