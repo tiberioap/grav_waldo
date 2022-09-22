@@ -11,3 +11,4 @@ setuptools.setup(name='waldo',
                  install_requires=install_requires,
                  classifiers=["Programming Language :: Python :: 3",
                              "Operating System :: OS Independent"])
+
