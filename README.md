@@ -9,9 +9,9 @@ WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(
 
 ___
 
-The project is composed of three main codes:
-* **wfdset:** for pre-processing NR dataset;
-* **unet:** the neural network;
-* **waldo:** for mismatch evaluation and anomaly search.
+The project is composed of three main [codes](https://github.com/tiberioap/waldo/tree/main/waldo):
+* **wfdset.py:** for pre-processing NR dataset;
+* **unet.py:** the neural network;
+* **waldo.py:** for mismatch evaluation and anomaly search.
 
 Check the tutorials in [docs](https://github.com/tiberioap/waldo/tree/main/docs).
