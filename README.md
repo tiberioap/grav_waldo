@@ -8,8 +8,8 @@ $$h_{lm}(t) = \int d\Omega h(t, \vec x)\_{-2}Y_{lm}(\theta, \phi) .$$
 WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(t)$ to compose a histogram. We can identify anomalous waveforms by isolating 1% of the highest measurement values. 
 
 <p float="central">
-  <img src="figs/hist.png" width="600" />
-  <img src="figs/wf.png" width="600" /> 
+  <img src="figs/hist.png" width="560" />
+  <img src="figs/wf.png" width="550" /> 
 </p>
 ___
 
