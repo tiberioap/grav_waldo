@@ -11,6 +11,7 @@ WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(
   <img src="figs/hist.png" width="400" />
   <img src="figs/wf.png" width="400" /> 
 </p>
+
 ___
 
 The project is composed of three main [codes](https://github.com/tiberioap/waldo/tree/main/waldo):
