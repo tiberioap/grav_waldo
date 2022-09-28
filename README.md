@@ -11,7 +11,7 @@ We use a U-Net architecture to learn the waveform features of a dataset. These w
 
 $$h_{lm}(t) = \int d\Omega h(t, \vec x)\_{-2}Y_{lm}(\theta, \phi) .$$ 
 
-WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(t)$ to compose a histogram. We can identify anomalous waveforms by isolating 1% of the highest measurement values. Below, the anomaly search associated with the radiation field $\psi_{32} = \ddot h_{32}$ from the [dataset](https://github.com/tiberioap/waldo/blob/main/simulations_ID.txt). Test.
+WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(t)$ to compose a histogram. We can identify anomalous waveforms by isolating 1% of the highest measurement values. Below, the anomaly search associated with the radiation field $\psi_{32} = \ddot h_{32}$ from the [dataset](https://github.com/tiberioap/grav_waldo/blob/main/simulations_ID.txt). Test.
 
 <p float="central">
   <img src="figs/hist.png" width="400" />
@@ -26,9 +26,9 @@ To install *grav-waldo*, we can use the pip [command](https://pypi.org/project/g
 
 ## Content
 
-The project is composed of three main [codes](https://github.com/tiberioap/waldo/tree/main/waldo):
+The project is composed of three main [codes](https://github.com/tiberioap/grav_waldo/tree/main/waldo):
 * **wfdset.py:** for pre-processing NR dataset;
 * **unet.py:** the neural network;
 * **waldo.py:** for mismatch evaluation and anomaly search.
 
-Check the tutorials in [docs](https://github.com/tiberioap/waldo/tree/main/docs).
+Check the tutorials in [docs](https://github.com/tiberioap/grav_waldo/tree/main/docs).
