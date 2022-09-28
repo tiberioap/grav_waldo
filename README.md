@@ -12,8 +12,6 @@ WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(
   <img src="figs/wf.png" width="400" /> 
 </p>
 
-___
-
 ## Installation
 
 To install *grav-waldo*, we can use the pip [command](https://pypi.org/project/grav-waldo/):
