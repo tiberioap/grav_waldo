@@ -1,4 +1,4 @@
-# **Gravitational Waveform AnomaLy DetectOr (Grav-WALDO)**
+# **Waveform AnomaLy DetectOr (WALDO)**
 
 WALDO is a *deep learning* data quality tool developed to flag possible anomalous Gravitational Waves (GW) from Numerical Relativity (NR) catalogs.
 We use a U-Net architecture to learn the waveform features of a dataset. These waveforms are timeseries $h_{lm}(t)$ of modes $(l,m)$ from the spin-weighted spherical harmonics decomposition of the GW strain $h(t,\vec x)$,
