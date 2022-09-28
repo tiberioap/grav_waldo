@@ -14,6 +14,14 @@ WALDO computes the mismatch between $h_{lm}(t)$ and its prediction $\bar h_{lm}(
 
 ___
 
+## Installation
+
+To install *grav-waldo*, we can use the pip [command](https://pypi.org/project/grav-waldo/):
+
+```pip install grav-waldo```
+
+___
+
 The project is composed of three main [codes](https://github.com/tiberioap/waldo/tree/main/waldo):
 * **wfdset.py:** for pre-processing NR dataset;
 * **unet.py:** the neural network;
