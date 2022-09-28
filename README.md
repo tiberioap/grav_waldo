@@ -26,7 +26,7 @@ To install *grav-waldo*, we can use the pip [command](https://pypi.org/project/g
 
 ## Content
 
-The project is composed of three main [codes](https://github.com/tiberioap/grav_waldo/tree/main/waldo):
+The project is composed of three main [codes](https://github.com/tiberioap/grav_waldo/tree/main/grav_waldo):
 * **wfdset.py:** for pre-processing NR dataset;
 * **unet.py:** the neural network;
 * **waldo.py:** for mismatch evaluation and anomaly search.
