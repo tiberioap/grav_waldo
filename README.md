@@ -18,7 +18,7 @@ To install *grav-waldo*, we can use the pip [command](https://pypi.org/project/g
 
 ```pip install grav-waldo```
 
-___
+## Content
 
 The project is composed of three main [codes](https://github.com/tiberioap/waldo/tree/main/waldo):
 * **wfdset.py:** for pre-processing NR dataset;
