@@ -1,5 +1,5 @@
 h5py
-numy
+numpy
 scipy
 matplotlib
 tensorflow
