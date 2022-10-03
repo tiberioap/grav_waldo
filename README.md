@@ -1,7 +1,7 @@
 # **Waveform AnomaLy DetectOr (WALDO)**
 
 [![PyPI Version](https://img.shields.io/pypi/v/grav-waldo?color=)](https://pypi.org/project/grav-waldo/)
-[![DOI](https://zenodo.org/badge/{10.5281/zenodo.7127963}.svg)](https://zenodo.org/badge/latestdoi/{10.5281/zenodo.7127963})
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7127963.svg)](https://doi.org/10.5281/zenodo.7127963)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1856-6881)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/tiberioap/grav_waldo/blob/main/LICENSE)
 [![python](	https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
