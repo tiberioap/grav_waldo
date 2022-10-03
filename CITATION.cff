@@ -1,0 +1,10 @@
+cff-version: 0.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Pereira
+    given-names: Tiberio
+    orcid: https://orcid.org/0000-0003-1856-6881
+title: "Waveform AnomaLy detectOr (WALDO)"
+version: First-release
+doi: 10.5281/zenodo.7127963
+date-released: 2022-09-28
