@@ -33,8 +33,3 @@ The project is composed of three main [codes](https://github.com/tiberioap/grav_
 * **waldo.py:** for mismatch evaluation and anomaly search.
 
 Check the tutorials in [docs](https://github.com/tiberioap/grav_waldo/tree/main/docs).
-
-The dataset contains $h_{lm}$ and $\psi_{lm}$ timeseries data for:
-* **dset**: the dataset composed by *DsetBuilder()* from *wfdset.py*;
-* **unet**: the U-Net model's weights and bias fitted by *FitUNet()* from *waldo.py*;
-* **waldo**: the evaluation saved by *Waldo()* from *waldo.py*.
