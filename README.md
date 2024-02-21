@@ -33,3 +33,7 @@ The project is composed of three main [codes](https://github.com/tiberioap/grav_
 * **waldo.py:** for mismatch evaluation and anomaly search.
 
 Check the tutorials in [docs](https://github.com/tiberioap/grav_waldo/tree/main/docs).
+
+## Reference
+
+**WALDO's paper:** [Deep learning waveform anomaly detector for numerical relativity catalogs.](https://link.springer.com/article/10.1007/s10714-024-03216-w)
